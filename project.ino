@@ -1,3 +1,6 @@
+// Code for mini project on GPS GSM based vehicle tracking system using Arduino
+// Group 23
+
 #include<string.h>
  
 #define DEBUG true
