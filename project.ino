@@ -1,4 +1,4 @@
-// Code for mini project on GPS GSM based vehicle tracking system using Arduino
+// Code for Arduino zero board
 // Group 23
 
 #include<string.h>
